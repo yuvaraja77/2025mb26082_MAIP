@@ -1,0 +1,40 @@
+Session 2 Reflection
+
+Management of AI Products
+Personal Learning Journal – Session 2
+
+The second session was much more practical because it focused on the product lifecycle and how products evolve through continuous learning rather than following 
+a fixed process.
+
+One idea that particularly hit with me was that the product lifecycle is a managed learning loop. I have often treated software development as completing a 
+list of requirements and moving to the next project. This session reminded me that products continuously evolve based on customer learning. 
+
+This is especially relevant for AI products because user expectations and AI capabilities change rapidly.
+
+The discussion about decision gates made me reflect on my own projects. I usually try to finalize many decisions early, believing it helps avoid future changes. 
+However, the professor explained that decisions should be deferred whenever possible unless they affect the product architecture or strategic direction. 
+The example of choosing the paint color only after building the house foundation made this concept very easy to understand. 
+I think I sometimes spend unnecessary time discussing UI details when the actual business workflow itself is still evolving.
+
+Another learning was the distinction between a project and a product. A project solves one customer's problem, whereas a product is expected to solve similar 
+problems for many unknown customers. This made me rethink PrepLens AI. Initially, I was building it based on my own interview experiences and a few colleagues' 
+feedback. Going forward, I should validate assumptions with a wider audience instead of assuming all job seekers have similar needs.
+
+The professor also emphasized documenting decisions and maintaining evidence. At first, I thought documentation was mainly for compliance. After this discussion, 
+I realized that documenting why decisions were made becomes extremely valuable when the product evolves or when new team members join. 
+For PrepLens AI(My product idea), I have changed pricing, AI prompts, and feature priorities several times. If I had documented those decisions properly,
+I could now better evaluate whether those changes actually improved the product.
+
+The conversation about AI Product Managers also made me reflect on my own preparation. I already understand AI technologies reasonably well because 
+I work with Azure OpenAI and LLM-based automation. However, I now realize technical knowledge alone is not sufficient. An AI Product Manager must 
+connect AI capabilities with business value, customer problems, risk, governance, and product outcomes. 
+That is a much broader responsibility than simply selecting the right model.
+
+One interesting point was the professor's advice to preserve learning material instead of trying to memorize everything.
+I often feel pressure to remember every framework and every concept. Instead, I should focus on knowing where to find information and understanding how 
+to apply it when required. That approach feels much more realistic.
+
+Overall, this session helped me think beyond feature development. It encouraged me to become more deliberate in making product decisions, documenting reasoning, 
+validating assumptions, and continuously learning from customers.
+
+Key takeaway for myself:Successful AI products are not created by choosing the best AI model; they are created by continuously learning from users and making better product decisions.
